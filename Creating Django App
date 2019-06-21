@@ -1,0 +1,2 @@
+1. django-admin startproject mysite
+2. python manage.py runserver 0.0.0.0:8000
