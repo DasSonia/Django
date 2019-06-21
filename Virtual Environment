@@ -1,0 +1,4 @@
+1. cd vagrant
+2. python -m venv ~/env
+3. source ~/env/bin/activate
+4. deactivate
