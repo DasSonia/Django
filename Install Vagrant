@@ -1,0 +1,8 @@
+1. Install VBox and Vagrant
+2. Copy the Vagrant file
+3. vagrant up
+4. vagrant ssh
+5. exit
+6. vagrant halt
+7. vagrant destroy
+8. vagrant box update
